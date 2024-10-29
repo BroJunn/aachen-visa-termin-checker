@@ -1,6 +1,6 @@
 # Städteregion Aachen Ausländeramt Appointment Checker
 
-This project is designed to check the availability of ****visa-extention/visa-application** appointments for **NON-STUDENTS** on the "Städteregion Aachen Ausländeramt" website. It automates checking for available slots and sends notifications via AWS SNS when appointments become available.
+This project is designed to check the availability of **visa-extention/visa-application** appointments for **NON-STUDENTS** on the "Städteregion Aachen Ausländeramt" website. It automates checking for available slots and sends notifications via AWS SNS when appointments become available.
 
 ---
 
